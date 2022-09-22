@@ -1,0 +1,7 @@
+C:\Users\haymu\Desktop\School Stuff\CST-150\Assignment2\obj\Debug\net6.0-windows\Assignment2.csproj.AssemblyReference.cache
+C:\Users\haymu\Desktop\School Stuff\CST-150\Assignment2\obj\Debug\net6.0-windows\Assignment2.Form1.resources
+C:\Users\haymu\Desktop\School Stuff\CST-150\Assignment2\obj\Debug\net6.0-windows\Assignment2.csproj.GenerateResource.cache
+C:\Users\haymu\Desktop\School Stuff\CST-150\Assignment2\obj\Debug\net6.0-windows\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haymu\Desktop\School Stuff\CST-150\Assignment2\obj\Debug\net6.0-windows\Assignment2.AssemblyInfoInputs.cache
+C:\Users\haymu\Desktop\School Stuff\CST-150\Assignment2\obj\Debug\net6.0-windows\Assignment2.AssemblyInfo.cs
+C:\Users\haymu\Desktop\School Stuff\CST-150\Assignment2\obj\Debug\net6.0-windows\Assignment2.csproj.CoreCompileInputs.cache
