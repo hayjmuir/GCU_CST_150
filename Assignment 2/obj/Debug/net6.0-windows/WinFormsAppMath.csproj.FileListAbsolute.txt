@@ -1,0 +1,17 @@
+C:\Users\haymu\Desktop\School Stuff\CST-150\WinFormsAppMath\bin\Debug\net6.0-windows\WinFormsAppMath.exe
+C:\Users\haymu\Desktop\School Stuff\CST-150\WinFormsAppMath\bin\Debug\net6.0-windows\WinFormsAppMath.deps.json
+C:\Users\haymu\Desktop\School Stuff\CST-150\WinFormsAppMath\bin\Debug\net6.0-windows\WinFormsAppMath.runtimeconfig.json
+C:\Users\haymu\Desktop\School Stuff\CST-150\WinFormsAppMath\bin\Debug\net6.0-windows\WinFormsAppMath.dll
+C:\Users\haymu\Desktop\School Stuff\CST-150\WinFormsAppMath\bin\Debug\net6.0-windows\WinFormsAppMath.pdb
+C:\Users\haymu\Desktop\School Stuff\CST-150\WinFormsAppMath\obj\Debug\net6.0-windows\WinFormsAppMath.csproj.AssemblyReference.cache
+C:\Users\haymu\Desktop\School Stuff\CST-150\WinFormsAppMath\obj\Debug\net6.0-windows\WinFormsAppMath.Form1.resources
+C:\Users\haymu\Desktop\School Stuff\CST-150\WinFormsAppMath\obj\Debug\net6.0-windows\WinFormsAppMath.csproj.GenerateResource.cache
+C:\Users\haymu\Desktop\School Stuff\CST-150\WinFormsAppMath\obj\Debug\net6.0-windows\WinFormsAppMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haymu\Desktop\School Stuff\CST-150\WinFormsAppMath\obj\Debug\net6.0-windows\WinFormsAppMath.AssemblyInfoInputs.cache
+C:\Users\haymu\Desktop\School Stuff\CST-150\WinFormsAppMath\obj\Debug\net6.0-windows\WinFormsAppMath.AssemblyInfo.cs
+C:\Users\haymu\Desktop\School Stuff\CST-150\WinFormsAppMath\obj\Debug\net6.0-windows\WinFormsAppMath.csproj.CoreCompileInputs.cache
+C:\Users\haymu\Desktop\School Stuff\CST-150\WinFormsAppMath\obj\Debug\net6.0-windows\WinFormsAppMath.dll
+C:\Users\haymu\Desktop\School Stuff\CST-150\WinFormsAppMath\obj\Debug\net6.0-windows\refint\WinFormsAppMath.dll
+C:\Users\haymu\Desktop\School Stuff\CST-150\WinFormsAppMath\obj\Debug\net6.0-windows\WinFormsAppMath.pdb
+C:\Users\haymu\Desktop\School Stuff\CST-150\WinFormsAppMath\obj\Debug\net6.0-windows\WinFormsAppMath.genruntimeconfig.cache
+C:\Users\haymu\Desktop\School Stuff\CST-150\WinFormsAppMath\obj\Debug\net6.0-windows\ref\WinFormsAppMath.dll
