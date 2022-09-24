@@ -1,0 +1,17 @@
+C:\Users\haymu\Desktop\School Stuff\CST-150\Activity 4\bin\Debug\net6.0-windows\Activity 4.exe
+C:\Users\haymu\Desktop\School Stuff\CST-150\Activity 4\bin\Debug\net6.0-windows\Activity 4.deps.json
+C:\Users\haymu\Desktop\School Stuff\CST-150\Activity 4\bin\Debug\net6.0-windows\Activity 4.runtimeconfig.json
+C:\Users\haymu\Desktop\School Stuff\CST-150\Activity 4\bin\Debug\net6.0-windows\Activity 4.dll
+C:\Users\haymu\Desktop\School Stuff\CST-150\Activity 4\bin\Debug\net6.0-windows\Activity 4.pdb
+C:\Users\haymu\Desktop\School Stuff\CST-150\Activity 4\obj\Debug\net6.0-windows\Activity 4.csproj.AssemblyReference.cache
+C:\Users\haymu\Desktop\School Stuff\CST-150\Activity 4\obj\Debug\net6.0-windows\Activity_4.Form1.resources
+C:\Users\haymu\Desktop\School Stuff\CST-150\Activity 4\obj\Debug\net6.0-windows\Activity 4.csproj.GenerateResource.cache
+C:\Users\haymu\Desktop\School Stuff\CST-150\Activity 4\obj\Debug\net6.0-windows\Activity 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haymu\Desktop\School Stuff\CST-150\Activity 4\obj\Debug\net6.0-windows\Activity 4.AssemblyInfoInputs.cache
+C:\Users\haymu\Desktop\School Stuff\CST-150\Activity 4\obj\Debug\net6.0-windows\Activity 4.AssemblyInfo.cs
+C:\Users\haymu\Desktop\School Stuff\CST-150\Activity 4\obj\Debug\net6.0-windows\Activity 4.csproj.CoreCompileInputs.cache
+C:\Users\haymu\Desktop\School Stuff\CST-150\Activity 4\obj\Debug\net6.0-windows\Activity 4.dll
+C:\Users\haymu\Desktop\School Stuff\CST-150\Activity 4\obj\Debug\net6.0-windows\refint\Activity 4.dll
+C:\Users\haymu\Desktop\School Stuff\CST-150\Activity 4\obj\Debug\net6.0-windows\Activity 4.pdb
+C:\Users\haymu\Desktop\School Stuff\CST-150\Activity 4\obj\Debug\net6.0-windows\Activity 4.genruntimeconfig.cache
+C:\Users\haymu\Desktop\School Stuff\CST-150\Activity 4\obj\Debug\net6.0-windows\ref\Activity 4.dll
