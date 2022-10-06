@@ -1,0 +1,17 @@
+C:\Users\haymu\Desktop\School Stuff\CST-150\Assignment 8\bin\Debug\net6.0-windows\Assignment 8.exe
+C:\Users\haymu\Desktop\School Stuff\CST-150\Assignment 8\bin\Debug\net6.0-windows\Assignment 8.deps.json
+C:\Users\haymu\Desktop\School Stuff\CST-150\Assignment 8\bin\Debug\net6.0-windows\Assignment 8.runtimeconfig.json
+C:\Users\haymu\Desktop\School Stuff\CST-150\Assignment 8\bin\Debug\net6.0-windows\Assignment 8.dll
+C:\Users\haymu\Desktop\School Stuff\CST-150\Assignment 8\bin\Debug\net6.0-windows\Assignment 8.pdb
+C:\Users\haymu\Desktop\School Stuff\CST-150\Assignment 8\obj\Debug\net6.0-windows\Assignment 8.csproj.AssemblyReference.cache
+C:\Users\haymu\Desktop\School Stuff\CST-150\Assignment 8\obj\Debug\net6.0-windows\Assignment_8.Form1.resources
+C:\Users\haymu\Desktop\School Stuff\CST-150\Assignment 8\obj\Debug\net6.0-windows\Assignment 8.csproj.GenerateResource.cache
+C:\Users\haymu\Desktop\School Stuff\CST-150\Assignment 8\obj\Debug\net6.0-windows\Assignment 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haymu\Desktop\School Stuff\CST-150\Assignment 8\obj\Debug\net6.0-windows\Assignment 8.AssemblyInfoInputs.cache
+C:\Users\haymu\Desktop\School Stuff\CST-150\Assignment 8\obj\Debug\net6.0-windows\Assignment 8.AssemblyInfo.cs
+C:\Users\haymu\Desktop\School Stuff\CST-150\Assignment 8\obj\Debug\net6.0-windows\Assignment 8.csproj.CoreCompileInputs.cache
+C:\Users\haymu\Desktop\School Stuff\CST-150\Assignment 8\obj\Debug\net6.0-windows\Assignment 8.dll
+C:\Users\haymu\Desktop\School Stuff\CST-150\Assignment 8\obj\Debug\net6.0-windows\refint\Assignment 8.dll
+C:\Users\haymu\Desktop\School Stuff\CST-150\Assignment 8\obj\Debug\net6.0-windows\Assignment 8.pdb
+C:\Users\haymu\Desktop\School Stuff\CST-150\Assignment 8\obj\Debug\net6.0-windows\Assignment 8.genruntimeconfig.cache
+C:\Users\haymu\Desktop\School Stuff\CST-150\Assignment 8\obj\Debug\net6.0-windows\ref\Assignment 8.dll
