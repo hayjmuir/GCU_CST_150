@@ -1,2 +1,2 @@
 # GCU_CST_150
-Studen Repo for CST-150
+Student Repo for CST-150
