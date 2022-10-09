@@ -1,0 +1,17 @@
+C:\Users\haymu\Desktop\School Stuff\CST-150\Milestone 1 HF\bin\Debug\net6.0-windows\Milestone 1 HF.exe
+C:\Users\haymu\Desktop\School Stuff\CST-150\Milestone 1 HF\bin\Debug\net6.0-windows\Milestone 1 HF.deps.json
+C:\Users\haymu\Desktop\School Stuff\CST-150\Milestone 1 HF\bin\Debug\net6.0-windows\Milestone 1 HF.runtimeconfig.json
+C:\Users\haymu\Desktop\School Stuff\CST-150\Milestone 1 HF\bin\Debug\net6.0-windows\Milestone 1 HF.dll
+C:\Users\haymu\Desktop\School Stuff\CST-150\Milestone 1 HF\bin\Debug\net6.0-windows\Milestone 1 HF.pdb
+C:\Users\haymu\Desktop\School Stuff\CST-150\Milestone 1 HF\obj\Debug\net6.0-windows\Milestone 1 HF.csproj.AssemblyReference.cache
+C:\Users\haymu\Desktop\School Stuff\CST-150\Milestone 1 HF\obj\Debug\net6.0-windows\Milestone_1_HF.Form1.resources
+C:\Users\haymu\Desktop\School Stuff\CST-150\Milestone 1 HF\obj\Debug\net6.0-windows\Milestone 1 HF.csproj.GenerateResource.cache
+C:\Users\haymu\Desktop\School Stuff\CST-150\Milestone 1 HF\obj\Debug\net6.0-windows\Milestone 1 HF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haymu\Desktop\School Stuff\CST-150\Milestone 1 HF\obj\Debug\net6.0-windows\Milestone 1 HF.AssemblyInfoInputs.cache
+C:\Users\haymu\Desktop\School Stuff\CST-150\Milestone 1 HF\obj\Debug\net6.0-windows\Milestone 1 HF.AssemblyInfo.cs
+C:\Users\haymu\Desktop\School Stuff\CST-150\Milestone 1 HF\obj\Debug\net6.0-windows\Milestone 1 HF.csproj.CoreCompileInputs.cache
+C:\Users\haymu\Desktop\School Stuff\CST-150\Milestone 1 HF\obj\Debug\net6.0-windows\Milestone 1 HF.dll
+C:\Users\haymu\Desktop\School Stuff\CST-150\Milestone 1 HF\obj\Debug\net6.0-windows\refint\Milestone 1 HF.dll
+C:\Users\haymu\Desktop\School Stuff\CST-150\Milestone 1 HF\obj\Debug\net6.0-windows\Milestone 1 HF.pdb
+C:\Users\haymu\Desktop\School Stuff\CST-150\Milestone 1 HF\obj\Debug\net6.0-windows\Milestone 1 HF.genruntimeconfig.cache
+C:\Users\haymu\Desktop\School Stuff\CST-150\Milestone 1 HF\obj\Debug\net6.0-windows\ref\Milestone 1 HF.dll
