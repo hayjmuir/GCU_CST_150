@@ -1,0 +1,15 @@
+C:\Users\haymu\Desktop\School Stuff\CST-150\Milestone 2 ConsoleApp\bin\Debug\net6.0\Milestone 2 ConsoleApp.exe
+C:\Users\haymu\Desktop\School Stuff\CST-150\Milestone 2 ConsoleApp\bin\Debug\net6.0\Milestone 2 ConsoleApp.deps.json
+C:\Users\haymu\Desktop\School Stuff\CST-150\Milestone 2 ConsoleApp\bin\Debug\net6.0\Milestone 2 ConsoleApp.runtimeconfig.json
+C:\Users\haymu\Desktop\School Stuff\CST-150\Milestone 2 ConsoleApp\bin\Debug\net6.0\Milestone 2 ConsoleApp.dll
+C:\Users\haymu\Desktop\School Stuff\CST-150\Milestone 2 ConsoleApp\bin\Debug\net6.0\Milestone 2 ConsoleApp.pdb
+C:\Users\haymu\Desktop\School Stuff\CST-150\Milestone 2 ConsoleApp\obj\Debug\net6.0\Milestone 2 ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\haymu\Desktop\School Stuff\CST-150\Milestone 2 ConsoleApp\obj\Debug\net6.0\Milestone 2 ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haymu\Desktop\School Stuff\CST-150\Milestone 2 ConsoleApp\obj\Debug\net6.0\Milestone 2 ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\haymu\Desktop\School Stuff\CST-150\Milestone 2 ConsoleApp\obj\Debug\net6.0\Milestone 2 ConsoleApp.AssemblyInfo.cs
+C:\Users\haymu\Desktop\School Stuff\CST-150\Milestone 2 ConsoleApp\obj\Debug\net6.0\Milestone 2 ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\haymu\Desktop\School Stuff\CST-150\Milestone 2 ConsoleApp\obj\Debug\net6.0\Milestone 2 ConsoleApp.dll
+C:\Users\haymu\Desktop\School Stuff\CST-150\Milestone 2 ConsoleApp\obj\Debug\net6.0\refint\Milestone 2 ConsoleApp.dll
+C:\Users\haymu\Desktop\School Stuff\CST-150\Milestone 2 ConsoleApp\obj\Debug\net6.0\Milestone 2 ConsoleApp.pdb
+C:\Users\haymu\Desktop\School Stuff\CST-150\Milestone 2 ConsoleApp\obj\Debug\net6.0\Milestone 2 ConsoleApp.genruntimeconfig.cache
+C:\Users\haymu\Desktop\School Stuff\CST-150\Milestone 2 ConsoleApp\obj\Debug\net6.0\ref\Milestone 2 ConsoleApp.dll
